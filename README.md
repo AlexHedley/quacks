@@ -5,7 +5,7 @@
 
 [![Deploy static content to Pages](https://github.com/AlexHedley/quacks/actions/workflows/static.yml/badge.svg)](https://github.com/AlexHedley/quacks/actions/workflows/static.yml)
 
-![The Quacks of Quedlinburg](images/Quacks.png "The Quacks of Quedlinburg")
+![The Quacks of Quedlinburg](src/images/Quacks.png "The Quacks of Quedlinburg")
 
 ## Site
 
